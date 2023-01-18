@@ -9,6 +9,5 @@ https://user-images.githubusercontent.com/99768939/212200096-93157935-0dba-498d-
 
 ### 🛠 Used tools:
 - Node.JS
-- Expo
 - React Native
 - VS Code
